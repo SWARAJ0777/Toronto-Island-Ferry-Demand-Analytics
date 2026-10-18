@@ -1,0 +1,4 @@
+matplotlib>=3.8
+reportlab>=4.0
+pillow>=10.0
+playwright>=1.40   # optional: only for the browser screenshots in the test report
